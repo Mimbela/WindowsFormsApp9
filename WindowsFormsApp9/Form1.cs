@@ -95,3 +95,5 @@ namespace WindowsFormsApp9
         }
     }
 }
+//Ejercicio Propuesto(10.13)
+//Crear un Maestro-Detalle
